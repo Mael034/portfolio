@@ -1,2 +1,2 @@
 # portfolio
-personnal portfolio project
+personnal portfolio project, using tailwind.
